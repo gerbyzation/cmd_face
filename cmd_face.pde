@@ -20,8 +20,9 @@
 303.jpg, 304.jpg, 305.jpg, 306.jpg, 307.jpg, 308.jpg, 309.jpg, 310.jpg, 311.jpg, 312.jpg, 313.jpg, 314.jpg, 315.jpg, 316.jpg, 317.jpg, 318.jpg, 
 319.jpg, 320.jpg"; */ 
 
-// Created by Gerben Neven (www.gerbyzation.nl)
-// Photo's curtesy of fellow Communication & Multimedia Design students at Avans Breda
+// Created by Gerben Neven (www.gerbyzation.nl) 
+// Photo's are curtesy of fellow Communication & Multimedia Design students at Avans Breda
+// Copyright 2014 - All Rights Served - You're not allowed to reuse the photos in any possible way
 
 // Number of images present
 int maxImages = 319;
